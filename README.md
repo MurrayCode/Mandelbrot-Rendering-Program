@@ -6,3 +6,5 @@ Arrow Keys to move the camera.
 +/- to zoom in and out.
 
 
+![](images/mandelbrot.png)
+![](images/mandelbrot2.png)
